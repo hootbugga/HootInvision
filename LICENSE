@@ -1,0 +1,46 @@
+Hootbugga License
+=================
+
+Version: 1.0
+Copyright: (c) 2025 The Hoot-Invision Author(s)
+
+Permission is hereby granted, subject to the terms and conditions below, to any person obtaining a copy
+of the released package (the files provided in the project's Releases page) to use, run, and modify the
+software for personal or internal purposes.
+
+Redistribution
+-------------
+- You MAY redistribute the original, unmodified release package (the files exactly as published in the
+  Releases page) provided that this `Hootbugga_LICENSE.txt` file and the original attribution remain
+  included.
+- You MAY NOT redistribute any EDITED, MODIFIED, OR DERIVATIVE VERSIONS of the source code or compiled
+  binaries derived from modified source. Redistribution of edited code is prohibited whether the
+  redistribution is free of charge or for a fee.
+
+Allowed Actions
+---------------
+- Use the software on your servers (personal or commercial).
+- Make internal modifications for your own use.
+
+Prohibited Actions
+------------------
+- Redistributing modified source code, modified DLLs, or any binaries compiled from modified source,
+  in any form (including but not limited to public repositories, package registries, uploads, or
+  commercial distribution), is strictly prohibited.
+
+Attribution
+-----------
+- Any permitted redistribution of the original release must retain this license file and any
+  attribution notices bundled with the release.
+
+Disclaimer
+----------
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Contact
+-------
+For questions about this license, open an issue on the project's repository.
