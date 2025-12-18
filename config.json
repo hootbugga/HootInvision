@@ -1,0 +1,7 @@
+{
+  "ApiUrl": "https://yourforum.com/api",
+  "ApiKey": "your_api_key_here",
+  "AllowedGroups": [4, 8],
+  "DeferMessage": "Checking whitelist with the community's whitelist database, please wait...",
+  "KickMessage": "You are not whitelisted on our forums. Join at yourforum.com"
+}
